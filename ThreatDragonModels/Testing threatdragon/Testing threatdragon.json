@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Testing threatdragon",
+    "owner": "Gagandeep",
+    "description": "AWS architecture"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "AWS architecture",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Gagandeep"
+  }
+}
